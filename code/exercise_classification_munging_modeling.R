@@ -5,7 +5,7 @@ library("lubridate")
 library("randomForest")
 
 #2-Get Data 
-setwd("/Users/keithpost/Documents/Coursera/8-Practical Machine Learning/MachineLearning_PredAssign")
+setwd("/Users/keithpost/Documents/Coursera/Data Science Specialization/8-Practical Machine Learning/exercise_classification/data/")
 fileUrl<-"https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv"
 download.file(fileUrl,destfile="traindata.csv",method="curl")
 fileUrl2<-"https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv"

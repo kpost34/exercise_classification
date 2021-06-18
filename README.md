@@ -2,7 +2,7 @@
 Machine learning model using movement data.
 
 ## Introduction
-Six participants with accelerometers placed on their belts, forearms, arms, and dumbbells performed exercises while movement data were recorded during a study by Velloso et al. (2013). The aim of this project was to develop a machine learning model to classify the exercise type (classe). 
+Six participants with accelerometers placed on their belts, forearms, arms, and dumbbells performed exercises while wearing accelerometers (Velloso et al., 2013). The aim of this project was to develop a machine learning model using the movement data to classify the exercise type (i.e., classe value). 
 
 ## Technologies
 * RStudio 1.2.5033
